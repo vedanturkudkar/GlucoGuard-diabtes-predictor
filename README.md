@@ -1,6 +1,4 @@
-# GlucoGuard-diabtes-predictor
 
-# GlucoGuard-diabetes-predictor
 
 #  GlucoGuard: Diabetes Risk Predictor using Multilayer Perceptron
 
